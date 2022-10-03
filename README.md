@@ -29,7 +29,7 @@ The site comes with "Search section" to filter the data and show visitors an exa
 
 ### Summary
  
- Although the website provides great information and it looks interesting, it also has its limitations. For example, I noticed the filter search is case sensitive and if you search for a city it has to be entered exactly how it is shown on the list provided. This is not ideal and very inconvenient.
+ Although the website provides great information and it looks interesting, it also has its limitations. For example, I noticed the filter search is case sensitive and if you search for a city it has to be entered exactly how it is shown on the list provided which is not ideal for an easy to navigate webpage.
  
  I would recommend a dropdown list and to add a 'clear' option to clear up the search after you have done your search and wish to do another search. 
  
