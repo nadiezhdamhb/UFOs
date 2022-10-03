@@ -5,7 +5,7 @@ The Purpose of this project is to provide a more in-depth analysis of UFO sighti
 ### Results
 ***The Truth Is Out There!***
 
-The Website allosw curious visitors the ability to access information following a possible encounter.
+The Website allows curious visitors the ability to access information following a possible encounter.
 
 ![](https://github.com/nadiezhdamhb/UFOs/blob/main/UFO_Main.png)
 
