@@ -10,6 +10,8 @@ The Website allows curious visitors the ability to access information following 
 ![](https://github.com/nadiezhdamhb/UFOs/blob/main/UFO_Main.png)
 
 We have the following fields provided on the webpage:
+
+
       1. Navigation section to initiate the page
       2. Page header
       3. Description summary and table displaying all information 
